@@ -1,6 +1,3 @@
-// Adapted from
-// https://github.com/gijoehosaphat/react-native-keep-screen-on
-
 package com.corbt.keepawake;
 
 import android.app.Activity;
