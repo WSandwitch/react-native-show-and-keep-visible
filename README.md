@@ -5,7 +5,7 @@ As the first step, install this module:
 ### React Native 0.57+
 
 ```
-npm install --save https://github.com/willnaoosmit/react-native-keep-visible.git
+npm install --save https://github.com/WSandwitch/react-native-show-and-keep-visible.git
 ```
 
 ### Manual install
